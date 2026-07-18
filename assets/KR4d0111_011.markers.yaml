@@ -27,6 +27,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: KR4d0111_WYG_011-1a04}
   - {type: indent, offset: 14, content: 　　　, id: KR4d0111_krp_011-bkkind6}
   - {type: punctuation, offset: 17, content: (, id: KR4d0111_krp_011-bkkpn1}
+  - {type: voice, offset: 17, length: 7, name: note, id: n1}
   - {type: punctuation, offset: 21, content: /, id: KR4d0111_krp_011-bkkpn2}
   - {type: punctuation, offset: 24, content: ), id: KR4d0111_krp_011-bkkpn3}
   - {type: 'kr:newline', offset: 24, content: '
@@ -205,6 +206,7 @@ markers:
   - {type: line-break, offset: 585, content: '', id: KR4d0111_WYG_011-3a05}
   - {type: indent, offset: 585, content: 　　　, id: KR4d0111_krp_011-bkkind10}
   - {type: punctuation, offset: 588, content: (, id: KR4d0111_krp_011-bkkpn4}
+  - {type: voice, offset: 588, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 592, content: /, id: KR4d0111_krp_011-bkkpn5}
   - {type: punctuation, offset: 592, content: ), id: KR4d0111_krp_011-bkkpn6}
   - {type: 'kr:newline', offset: 592, content: '
@@ -241,6 +243,7 @@ markers:
   - {type: line-break, offset: 690, content: '', id: KR4d0111_WYG_011-3b03}
   - {type: indent, offset: 690, content: 　　　, id: KR4d0111_krp_011-bkkind11}
   - {type: punctuation, offset: 693, content: (, id: KR4d0111_krp_011-bkkpn7}
+  - {type: voice, offset: 693, length: 14, name: note, id: n3}
   - {type: punctuation, offset: 707, content: /, id: KR4d0111_krp_011-bkkpn8}
   - {type: punctuation, offset: 707, content: ), id: KR4d0111_krp_011-bkkpn9}
   - {type: 'kr:newline', offset: 707, content: '
@@ -555,6 +558,7 @@ markers:
   - {type: indent, offset: 1830, content: 　　　, id: KR4d0111_krp_011-bkkind16}
   - {type: substitution, offset: 1832, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 1834, content: (, id: KR4d0111_krp_011-bkkpn10}
+  - {type: voice, offset: 1834, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 1841, content: /, id: KR4d0111_krp_011-bkkpn11}
   - {type: punctuation, offset: 1841, content: ), id: KR4d0111_krp_011-bkkpn12}
   - {type: 'kr:newline', offset: 1841, content: '
@@ -645,6 +649,7 @@ markers:
   - {type: line-break, offset: 2116, content: '', id: KR4d0111_WYG_011-8a06}
   - {type: indent, offset: 2116, content: 　　　, id: KR4d0111_krp_011-bkkind19}
   - {type: punctuation, offset: 2122, content: (, id: KR4d0111_krp_011-bkkpn13}
+  - {type: voice, offset: 2122, length: 4, name: note, id: n5}
   - {type: punctuation, offset: 2126, content: /, id: KR4d0111_krp_011-bkkpn14}
   - {type: punctuation, offset: 2126, content: ), id: KR4d0111_krp_011-bkkpn15}
   - {type: 'kr:newline', offset: 2126, content: '
@@ -710,6 +715,7 @@ markers:
   - {type: line-break, offset: 2324, content: '', id: KR4d0111_WYG_011-9a02}
   - {type: indent, offset: 2324, content: 　　　, id: KR4d0111_krp_011-bkkind21}
   - {type: punctuation, offset: 2328, content: (, id: KR4d0111_krp_011-bkkpn16}
+  - {type: voice, offset: 2328, length: 4, name: note, id: n6}
   - {type: punctuation, offset: 2332, content: /, id: KR4d0111_krp_011-bkkpn17}
   - {type: punctuation, offset: 2332, content: ), id: KR4d0111_krp_011-bkkpn18}
   - {type: 'kr:newline', offset: 2332, content: '
@@ -918,6 +924,7 @@ markers:
       ', id: KR4d0111_krp_011-bkkkrnewl187}
   - {type: line-break, offset: 2982, content: '', id: KR4d0111_WYG_011-11a08}
   - {type: punctuation, offset: 2996, content: (, id: KR4d0111_krp_011-bkkpn19}
+  - {type: voice, offset: 2996, length: 6, name: note, id: n7}
   - {type: punctuation, offset: 2999, content: /, id: KR4d0111_krp_011-bkkpn20}
   - {type: punctuation, offset: 3002, content: ), id: KR4d0111_krp_011-bkkpn21}
   - {type: 'kr:newline', offset: 3006, content: '
@@ -1285,4 +1292,4 @@ markers:
 
       ', id: KR4d0111_krp_011-bkkkrnewl266}
   back: []
-hash: sha256:e0b1d6d5df5263348816f466a3051b28143ff91d503fb6abc721973cf24f414a
+hash: sha256:47472ae9cf7585f65748fefe97445791bc4dbfa621decb3b66b98aae1bc3632f
